@@ -40,27 +40,18 @@
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,javascript,firebase&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,javascript&theme=dark"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn&theme=dark"/>
-</p>
-
----
-
-## 📊 GitHub Stats
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lalitjindal-code&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Lalitjindal-code&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalitjindal-code&layout=compact&theme=radical&hide_border=true"/>
-</p>
 
 ---
 
