@@ -1,106 +1,75 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0f0c29,302b63,24243e&height=200&section=header&text=LALIT%20JINDAL&fontSize=60&fontColor=00d2ff&desc=CSE%20(AI%20&%20DS)%20|%20Building%20Intelligence&descFontSize=25&fontAlignY=65&animation=fadeIn" alt="Lalit Jindal Header" width="100%" />
-
-<br>
-
-<table align="center" bgcolor="#1a1a2e" style="border-radius: 15px; border: 1px solid #302b63;">
-  <tr>
-    <td align="center" style="padding: 20px;">
-      <h3>🤖 About Me</h3>
-      <p>Hi, I'm Lalit, a <b>B.Tech student in CSE (AI & DS)</b> at SATI Vidisha.</p>
-      <p>🌱 Currently mastering <b>Python & Machine Learning libraries</b>.</p>
-      <p>🤝 Eager to collaborate on <b>Open Source AI projects</b>.</p>
-      <p>⚡ Fun Fact: <b>My code works... eventually.</b></p>
-      <br>
-      <a href="https://linkedin.com/in/lalitjindal519"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-      <a href="https://instagram.com/Lalitjindal__"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
-      <a href="mailto:lalitjindal519@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-### 🛠️ Skills Dashboard
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%" style="border: 1px solid #302b63; border-radius: 10px; padding: 10px;">
-      <h4>🧠 AI/ML Stack</h4>
-      <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"><br>
-      <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"><br>
-      <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"><br>
-      <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
-    </td>
-    <td align="center" width="33%" style="border: 1px solid #302b63; border-radius: 10px; padding: 10px;">
-      <h4>💻 Core & Web</h4>
-      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C"><br>
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"><br>
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5"><br>
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-    </td>
-    <td align="center" width="33%" style="border: 1px solid #302b63; border-radius: 10px; padding: 10px;">
-      <h4>🔧 Tools & Design</h4>
-        <img src="https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34" alt="Firebase"><br>
-      <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white" alt="Canva"><br>
-      <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white" alt="Photoshop">
-    </td>
-  </tr>
-</table>
-
-<br>
-
-### 📊 GitHub Analytics Command Center
-
-<table align="center" style="border-spacing: 10px;">
-  <tr>
-    <td rowspan="2">
-      <a href="https://github.com/Lalitjindal-code">
-        <img height="350em" src="https://github-readme-stats.vercel.app/api?username=Lalitjindal-code&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&bg_color=1a1a2e&title_color=00d2ff&icon_color=00d2ff" alt="Lalit's Stats">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Lalitjindal-code">
-        <img height="165em" src="https://nirzak-streak-stats.vercel.app/?user=Lalitjindal-code&theme=radical&hide_border=true&bg_color=1a1a2e&ring=00d2ff&curr_streak_num=00d2ff" alt="Streak Stats" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Lalitjindal-code">
-        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalitjindal-code&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=1a1a2e&title_color=00d2ff" alt="Top Languages">
-      </a>
-    </td>
-  </tr>
-</table>
-
+<!-- Header Wave -->
 <p align="center">
-<a href="https://github.com/Lalitjindal-code?tab=repositories">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lalitjindal-code&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-</a>
-</p>
-<p align="center">
-<a href="https://github.com/Lalitjindal-code?tab=repositories">
-<img src="https://github-contributor-stats.vercel.app/api?username=Lalitjindal-code&limit=2&theme=radical&combine_all_yearly_contributions=true&bg_color=1a1a2e&border_color=302b63" alt="Top Repos">
-</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,50:E94057,100:F27121&height=200&section=header&text=Lalit%20Jindal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<br>
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(AI+%26+DS)+Student;Aspiring+AI%2FML+Engineer;Python+%7C+Data+Science+%7C+Machine+Learning;Learning+by+Building+%26+Breaking+Things"/>
+</p>
 
-<table align="center" bgcolor="#000000" style="border-radius: 5px; border: 1px solid #33ff00; width: 60%;">
-  <tr>
-    <td style="padding: 15px; font-family: monospace; color: #33ff00;">
-      > "Debugging is like being the detective in a crime movie where you are also the murderer."<br>
-      > _
-    </td>
-  </tr>
-</table>
+---
 
-<br>
+## 💫 About Me
+- 🎓 **B.Tech in CSE (AI & DS)** at **SATI Vidisha**
+- 🔭 Currently focused on **Python, Data Science & ML foundations**
+- 👯 Open to **beginner-friendly open-source AI/ML collaborations**
+- 🤝 Actively working to understand **core ML algorithms deeply**
+- 💬 Ask me about **Python basics & Data Science fundamentals**
+- ⚡ Fun fact: *Debugging takes more time than writing code — and that’s normal.*
 
-<a href="https://github.com/Lalitjindal-code">
-<img src="https://visitcount.itsvg.in/api?id=Lalitjindal-code&icon=5&color=6" alt="Visitor Count">
-</a>
+---
 
-</div>
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/lalitjindal519">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/lalitjindal__">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.reddit.com/u/Lalitjindal519">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
+  </a>
+  <a href="mailto:lalitjindal519@gmail.com">
+    <img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,javascript,firebase&theme=dark"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn&theme=dark"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lalitjindal-code&show_icons=true&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Lalitjindal-code&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalitjindal-code&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## ✍️ Random Dev Quote
+> **"Debugging is like being the detective in a crime movie where you are also the murderer."**
+
+---
+
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F27121,50:E94057,100:8A2387&height=120&section=footer"/>
+</p>
